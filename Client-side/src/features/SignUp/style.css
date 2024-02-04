@@ -1,0 +1,66 @@
+/* style.css */
+
+/* Common styles for input fields */
+.input-container {
+    margin-bottom: 15px;
+  }
+  
+  /* Styles for SignUp component */
+  .sign-up-container {
+    max-width: 300px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Styles for Login component */
+  .login-container {
+    max-width: 300px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Common styles for headers */
+  h1 {
+    color: #333;
+    text-align: center;
+  }
+  
+  /* Common styles for input fields */
+  input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    box-sizing: border-box;
+  }
+  
+  /* Common styles for toggler */
+  .toggler {
+    text-align: center;
+    margin-top: 15px;
+    cursor: pointer;
+    color: #007bff;
+  }
+  
+  /* Common styles for toggle text */
+  .toggle-text {
+    font-weight: bold;
+  }
+
+  .button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
