@@ -1,0 +1,18 @@
+#project 
+
+simple CRUD project with JWT
+
+#Features
+
+Has JWT Authentication
+Spring Boot backend,
+    Different Endpoints,where user can register and login,
+    registered user can add, delete, update customer list which is intial fetch from an API,
+    user can also update the Database of customers
+MySQL database with table for customer list and registered users
+React Frontend,
+    Basic UI for Login and signup,
+    page to show the Customer list fetched from API
+    context to store customer list in useState hook
+    page to add new users
+    Edit and delete customer features also

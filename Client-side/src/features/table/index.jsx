@@ -20,8 +20,6 @@ function Table() {
   };
 
   const handleSaveEdit = (uuid, updatedCustomer) => {
-    // Implement logic to save the edited customer
-    console.log(`Saving edits for customer with UUID: ${uuid}`);
     // Update the customers state with the edited customer
     setCustomers((prevCustomers) => ({
       ...prevCustomers,
